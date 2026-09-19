@@ -16,7 +16,7 @@ Founder and lead developer of **GLeaks.pro**.
 ---
 
 ### ⚙️ Tech Stack
-**Languages:** Java, PHP, Python, Go, C#  
+**Languages:** Java, PHP, Python
 **Infrastructure:** Linux, Nginx, MariaDB/MySQL, Redis, Cloudflare  
 **Focus Areas:** Performance, Control, Scalability, Security
 
