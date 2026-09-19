@@ -17,7 +17,7 @@ Founder and lead developer of **GLeaks.pro**, **Hutier.hu**, **Client.BestPvP.eu
 
 ### ⚙️ Tech Stack
 **Languages:** Java, PHP, Python, SQL
-**Infrastructure:** Linux, Nginx, MariaDB/MySQL, Redis, Cloudflare  
+**Infrastructure:** Linux, Nginx, MariaDB/MySQL, Redis, Cloudflare
 **Focus Areas:** Performance, Control, Scalability, Security
 
 ---
